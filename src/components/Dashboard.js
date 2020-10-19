@@ -5,7 +5,7 @@ import {
     TableBody,
     TableCell,
     TableHead,
-    TableRow
+    TableRow,
 } from '@material-ui/core'
 import DeleteIcon from '@material-ui/icons/Delete'
 import Chart from '../containers/Chart'
